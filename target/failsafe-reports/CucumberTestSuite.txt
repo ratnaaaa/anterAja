@@ -1,0 +1,9 @@
+-------------------------------------------------------------------------------
+Test set: CucumberTestSuite
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 1, Skipped: 0, Time elapsed: 0.005 s <<< FAILURE! - in CucumberTestSuite
+CucumberTestSuite.initializationError  Time elapsed: 0.005 s  <<< ERROR!
+io.cucumber.core.gherkin.FeatureParserException: 
+Failed to parse resource at: file:///C:/Users/ratna/IdeaProjects/anterAja/src/test/resources/Features/cekOngkir.feature
+(10:5): expected: #EOF, #TableRow, #DocStringSeparator, #StepLine, #TagLine, #ExamplesLine, #ScenarioLine, #RuleLine, #Comment, #Empty, got '//Then succesfully view table list price ongkir'
+
